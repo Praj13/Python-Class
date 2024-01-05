@@ -5,6 +5,4 @@ def check_odd_even(number):
     return "Odd"
   
 x=check_odd_even(3)
-print(x)
-
-
+print(x);
