@@ -16,3 +16,4 @@ if value_of_check_prime:
      print("number is prime")
 else:
      print("number isnt prime")
+
