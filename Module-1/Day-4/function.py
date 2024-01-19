@@ -10,9 +10,13 @@ def check_prime(a):
                 return False
         else:
             return True
+        
+
+       
+       
 number=int (input("enter a number to check prime or not"))
 value_of_check_prime=check_prime(number)
-if value_of_check_prime:
+if value_of_check_prime==True:
      print("number is prime")
 else:
      print("number isnt prime")
