@@ -4,3 +4,7 @@ print(d)
 
 e=[element for element in a if element<0 ]
 print(e)
+
+print(len(d))
+
+
