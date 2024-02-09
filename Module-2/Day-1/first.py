@@ -61,6 +61,7 @@ print(len(a))
 # print(h)
 
 
+
 # to count the number of particular element
 print(a.count(5))
 
