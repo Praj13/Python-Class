@@ -10,3 +10,4 @@ word_lengths = {word: len(word) for word in words}
 # Print the resulting dictionary
 print("Word lengths dictionary:")
 print(word_lengths)
+print(words)
