@@ -2,7 +2,7 @@ def reverse_words(sentence):
     # Split the sentence into words
     words = sentence.split()
 
-    # Reverse each word
+    # Reverse each word and the overall sentence
     reversed_words = [word[::-1] for word in words][::-1]
 
     # Join the reversed words back into a sentence

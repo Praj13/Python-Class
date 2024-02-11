@@ -1,4 +1,4 @@
-sentence="perfect ? he is the perfect . perfect"
+sentence="perfect ? he is this perfect . perfect"
 print("t-he original sentence is: "+sentence)
 sentence_list=sentence.split()
 
